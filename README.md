@@ -40,7 +40,7 @@
 ### 🧰 My Tech Stack
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,tailwind,vite,firebase,gcp,git,github,vscode,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,java,c,cpp,angular,tailwind,figma,firebase,git,github,linux,postman,vscode,bootstrap,redux,vite,gcp&perline=9" />
   </a>
 </div>
 
