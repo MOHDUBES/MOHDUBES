@@ -16,11 +16,23 @@
 
 | 🍽️ **[NutriSync (AI Meal Planner)](https://github.com/MOHDUBES/VenueSync)** | 🚚 **[TransOpt (Transportation Optimization)](https://github.com/MOHDUBES/Transportation-Cost)** |
 |:---|:---|
-| Engineered for the **PromptWars Hackathon**. Integrates Google's Generative AI SDK to craft highly tailored nutritional plans. Features a beautiful premium dark-glassmorphic terminal-style "Vibe Coding" UI.<br/><br/>**Tech:** *React, Vite, Generative AI API* | A premium-designed application calculating and optimizing logistical transportation costs via intelligent data management. Features a fully-responsive deep-navy UI with seamless interactive UX modules.<br/><br/>**Tech:** *HTML, Modern Vanilla CSS, Javascript* |
+| Engineered for the **PromptWars Hackathon**. Integrates Google's Generative AI SDK to craft highly tailored nutritional plans. Features a beautiful premium dark-glassmorphic terminal UI. | A premium-designed application calculating and optimizing logistical transportation costs via intelligent data management. Features a fully-responsive deep-navy UI. |
 
-| 🤖 **SmartAssist AI Platform** | ☁️ **GCP Architecture & CI/CD Pipelines** |
+| 🕵️ **[Veritas AI Detect](https://github.com/MOHDUBES/Veritas-ai-detect-main)** | 🎙️ **[VoiceBox Smart Scanner App](https://github.com/MOHDUBES/VoiceBox---Smart-Bill-Scanner-Payment-App)** |
 |:---|:---|
-| A robust conversational AI frontend engineered with a complete user management system, professional settings modal, and highly polished responsive elements spanning desktop and mobile interfaces.<br/><br/>**Tech:** *Node.js, JS, Flexbox Layouts* | Proven hands-on experience building automated CI/CD pipelines using **Cloud Build**, securely deploying and hosting static web applications on **Firebase**, and configuring firewalls natively within **Compute Engine (VMs)**. |
+| An advanced AI-detection utility capable of assessing the likelihood of machine-generated text in documents with high precision. Engineered to differentiate between human and AI content. | An innovative smart scanner and payment application integrating voice processing capabilities, billing document analysis, and streamlining rapid digital payments. |
+
+| 📚 **[Library Management System](https://github.com/MOHDUBES/Library-Management-System)** | 🎥 **[Video-Downloader-Notes](https://github.com/MOHDUBES/Video-Downloader-Notes)** |
+|:---|:---|
+| A robust, structured management system for libraries integrating full CRUD interactions, membership tracking, book indexing, and resource lending architectures. | A unique utility combining the functionality of a fast video downloader with an integrated note-taking feature explicitly designed for media study and research. |
+
+| 🤖 **[SmartAssist AI Platform](https://github.com/MOHDUBES/SmartAssist)** | 🇮🇳 **[Leaders of Modern India](https://github.com/MOHDUBES/Leaders-of-Modern-India)** |
+|:---|:---|
+| A conversational AI frontend engineered with a comprehensive user management system, professional settings modal, and highly polished responsive elements spanning desktop and mobile interfaces. | An educational showcase profiling the profound history of influential figures who shaped modern India through a beautifully structured and informative interactive interface. |
+
+| ☁️ **GCP Architecture & CI/CD Pipelines** | |
+|:---|:---|
+| Proven hands-on experience building automated CI/CD pipelines using **Cloud Build**, securely deploying full-stack properties on **Firebase**, and configuring native firewalls on **Compute Engine VMs**. | |
 
 ---
 
