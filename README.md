@@ -5,6 +5,7 @@
 </div>
 
 ### 👨‍💻 About Me
+- 🎓 **2nd-year BTech IT Student** passionate about building impactful solutions.
 - 🚀 I’m a passionate **Full Stack Developer** exploring the endless possibilities of technology.
 - 💡 Recently engineered **NutriSync**, an AI-powered meal planner integrating Google Generative AI capabilities.
 - ☁️ Skilled in **Google Cloud (GCP) deployments**, Cloud Build CI/CD pipelines, and server architecture.
