@@ -57,14 +57,16 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MOHDUBES&show_icons=true&theme=tokyonight&hide_border=true&title_color=70A5FD&bg_color=0D1117" height="150" alt="GitHub Stats" />
+  <!-- YAHAN LINK REPLACE KIYA HAI (GitHub Stats) -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MOHDUBES&show_icons=true&theme=tokyonight&hide_border=true&title_color=70A5FD&bg_color=0D1117" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHDUBES&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHDUBES&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <!-- YAHAN LINK REPLACE KIYA HAI (Top Languages) -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MOHDUBES&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
